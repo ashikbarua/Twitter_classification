@@ -1,0 +1,6 @@
+mlModel,Auc
+Adaboost,0.88
+LSVC,0.83
+SVC,0.84
+MLPC,0.79
+RF,0.79

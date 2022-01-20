@@ -1,0 +1,10 @@
+Training using the OSOME set
+              precision    recall  f1-score   support
+
+       False       0.42      0.10      0.16       364
+        True       0.93      0.99      0.96      4682
+
+    accuracy                           0.93      5046
+   macro avg       0.68      0.54      0.56      5046
+weighted avg       0.90      0.93      0.90      5046
+
